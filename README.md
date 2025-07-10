@@ -68,5 +68,14 @@ Ao clicar em "Iniciar", o programa:
 ---
 
 Tudo isso acontece de forma automática, sem que você precise mexer em nada depois de iniciar.
+---
+
+## 📦 Quer baixar direto o instalador?
+
+Se preferir, você pode pular os passos técnicos e baixar diretamente o instalador pronto para Windows (.exe), clicando no link abaixo:
+
+🔗 [Download do Instalador – Google Drive](https://drive.google.com/drive/folders/1Lwti_6LK-T9LdXXDGsXCJXAN1xdDCqOc)
+
+> Basta baixar, executar o `setup.exe` e seguir as instruções na tela.
 
 
