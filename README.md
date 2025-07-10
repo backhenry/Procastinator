@@ -22,3 +22,10 @@ Ele move o mouse em intervalos aleatórios e digita “produtivo” no Bloco de 
 1. Instale os requisitos:
 ```bash
 pip install pyautogui pillow
+```
+## ▶️ Como executar
+
+Execute o arquivo principal com:
+
+```bash
+python procastinator.py
